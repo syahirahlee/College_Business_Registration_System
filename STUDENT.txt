@@ -1,0 +1,13 @@
+BHD1507-001|Syahirah|HND|019-2189043|Keropok Lekor|Kiosk|160|Pending
+BHD1507-002|Intan|HND|011-83902802|Buah Berangan|Kiosk|320|Pending
+BDG1507-003|Yasmin|DAB|011-2787812|Ice blended|Kiosk|200|Pending
+BDA1507-004|Mikael|DIA|019-9024678|Printed Shirts|Mobile|40|Pending
+BDB1507-005|Farhaya|DBS|019-9015656|Murtabak maggi|Daily|300|Pending
+BDB1507-008|Lana|DBS|012-2688889|Cheezy roll|Kiosk|300|Pending
+BDA1507-007|Umaiyah|DIA|019-8924242|Beverages|Daily|200|Pending
+BHD1507-080|Kher|HND|011-1111111|Sotong goreng|Kiosk|160|Pending
+BHD1507-090|Mazali|HND|019-9090912|Kuih Bahulu|Daily|200|Pending
+BDA1307-001|Nurul Mainun|DIA|011-0019012|Ice blended|Daily|100|Pending
+BHD1507-020|HILMAN|HND|01111674427|SHAWL|Daily|60|Pending
+BHD1507-113|Amira|HND|012-0912312|Power bank|Kiosk|160|Pending
+45|Lisa|HND|54|Sanity|Daily|70|Pending

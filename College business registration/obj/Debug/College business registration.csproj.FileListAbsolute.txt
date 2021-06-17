@@ -1,0 +1,56 @@
+E:\Meh\ASSGMT H2B\OOP\College business registration\College business registration\bin\Debug\College business registration.exe.config
+E:\Meh\ASSGMT H2B\OOP\College business registration\College business registration\bin\Debug\College business registration.exe
+E:\Meh\ASSGMT H2B\OOP\College business registration\College business registration\bin\Debug\College business registration.pdb
+E:\Meh\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College_business_registration.Form1.resources
+E:\Meh\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College_business_registration.Properties.Resources.resources
+E:\Meh\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College_business_registration.Student_Register.resources
+E:\Meh\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College business registration.csproj.GenerateResource.Cache
+E:\Meh\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College business registration.exe
+E:\Meh\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College business registration.pdb
+E:\Meh\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College_business_registration.Check.resources
+E:\Meh\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College_business_registration.StaffUpdate.resources
+E:\Meh\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College_business_registration.Report.resources
+E:\Meh\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College business registration.csprojResolveAssemblyReference.cache
+E:\Meh\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College_business_registration.Student_Menu.resources
+E:\Meh\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College_business_registration.Staff_Menu.resources
+E:\Meh\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College_business_registration.License.resources
+E:\Meh\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College_business_registration.Help.resources
+E:\Meh\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College_business_registration.STAFF_HELP.resources
+D:\MEH\HND\ASSGMT H2B\OOP\College business registration\College business registration\bin\Debug\College business registration.exe.config
+D:\MEH\HND\ASSGMT H2B\OOP\College business registration\College business registration\bin\Debug\College business registration.exe
+D:\MEH\HND\ASSGMT H2B\OOP\College business registration\College business registration\bin\Debug\College business registration.pdb
+D:\MEH\HND\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College business registration.csprojAssemblyReference.cache
+D:\MEH\HND\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College_business_registration.Check.resources
+D:\MEH\HND\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College_business_registration.Form1.resources
+D:\MEH\HND\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College_business_registration.Help.resources
+D:\MEH\HND\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College_business_registration.License.resources
+D:\MEH\HND\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College_business_registration.Properties.Resources.resources
+D:\MEH\HND\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College_business_registration.Report.resources
+D:\MEH\HND\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College_business_registration.StaffUpdate.resources
+D:\MEH\HND\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College_business_registration.STAFF_HELP.resources
+D:\MEH\HND\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College_business_registration.Staff_Menu.resources
+D:\MEH\HND\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College_business_registration.Student_Register.resources
+D:\MEH\HND\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College_business_registration.Student_Menu.resources
+D:\MEH\HND\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College business registration.csproj.GenerateResource.cache
+D:\MEH\HND\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College business registration.csproj.CoreCompileInputs.cache
+D:\MEH\HND\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College business registration.exe
+D:\MEH\HND\ASSGMT H2B\OOP\College business registration\College business registration\obj\Debug\College business registration.pdb
+C:\Users\HP\Documents\GitHub\College_Business_Registration_System\College business registration\bin\Debug\College business registration.exe.config
+C:\Users\HP\Documents\GitHub\College_Business_Registration_System\College business registration\bin\Debug\College business registration.exe
+C:\Users\HP\Documents\GitHub\College_Business_Registration_System\College business registration\bin\Debug\College business registration.pdb
+C:\Users\HP\Documents\GitHub\College_Business_Registration_System\College business registration\obj\Debug\College business registration.csprojAssemblyReference.cache
+C:\Users\HP\Documents\GitHub\College_Business_Registration_System\College business registration\obj\Debug\College_business_registration.Check.resources
+C:\Users\HP\Documents\GitHub\College_Business_Registration_System\College business registration\obj\Debug\College_business_registration.Form1.resources
+C:\Users\HP\Documents\GitHub\College_Business_Registration_System\College business registration\obj\Debug\College_business_registration.Help.resources
+C:\Users\HP\Documents\GitHub\College_Business_Registration_System\College business registration\obj\Debug\College_business_registration.License.resources
+C:\Users\HP\Documents\GitHub\College_Business_Registration_System\College business registration\obj\Debug\College_business_registration.Properties.Resources.resources
+C:\Users\HP\Documents\GitHub\College_Business_Registration_System\College business registration\obj\Debug\College_business_registration.Report.resources
+C:\Users\HP\Documents\GitHub\College_Business_Registration_System\College business registration\obj\Debug\College_business_registration.StaffUpdate.resources
+C:\Users\HP\Documents\GitHub\College_Business_Registration_System\College business registration\obj\Debug\College_business_registration.STAFF_HELP.resources
+C:\Users\HP\Documents\GitHub\College_Business_Registration_System\College business registration\obj\Debug\College_business_registration.Staff_Menu.resources
+C:\Users\HP\Documents\GitHub\College_Business_Registration_System\College business registration\obj\Debug\College_business_registration.Student_Register.resources
+C:\Users\HP\Documents\GitHub\College_Business_Registration_System\College business registration\obj\Debug\College_business_registration.Student_Menu.resources
+C:\Users\HP\Documents\GitHub\College_Business_Registration_System\College business registration\obj\Debug\College business registration.csproj.GenerateResource.cache
+C:\Users\HP\Documents\GitHub\College_Business_Registration_System\College business registration\obj\Debug\College business registration.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\College_Business_Registration_System\College business registration\obj\Debug\College business registration.exe
+C:\Users\HP\Documents\GitHub\College_Business_Registration_System\College business registration\obj\Debug\College business registration.pdb

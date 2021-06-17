@@ -1,0 +1,22 @@
+Student Info
+
+1. First, write your name.
+2. Write your student ID. (included '-' eg:BHD1507-010)
+3. Select one course from list provided.
+4. Insert telephone number (included '-' eg: 011-8909090)
+
+Product/service Info
+
+1. Please keep it short or general description 
+(eg: Food, Beverage, USB)
+
+Business
+
+1. Select one type of business from list provided.
+2. Please insert number value for day(Daily) and month(Kiosk). 
+   For mobile business, it is not required.
+3. Status remains pending until staff updates your 
+   business status.
+
+*Please click 'CALCULATE' button to view your fee before clicking 
+  'REGISTER' button to save your details.

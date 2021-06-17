@@ -1,0 +1,7 @@
+1. Enter student's ID
+2. Click 'SEARCH' button
+3. Students details will display
+4. To update status, select approval status 
+   (APPROVED/NOT APPROVED)
+5. Next, Click 'UPDATE' button to save data
+6. Click 'CLEAR' button to clear all data in textbox
